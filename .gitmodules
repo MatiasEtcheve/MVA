@@ -1,0 +1,6 @@
+[submodule "RECVIS/Project/RECVIS-transporter-networks"]
+	path = RECVIS/Project/RECVIS-transporter-networks
+	url = https://github.com/MatiasEtcheve/RECVIS-transporter-networks.git
+[submodule "AERO/TD"]
+	path = AERO/TD
+	url = https://github.com/MatiasEtcheve/AERO.git
