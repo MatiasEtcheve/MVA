@@ -4,7 +4,7 @@ List of projects and assignements done during the master MVA. Some courses which
 
 ## First semester
 
-**Application de l'analyse de données, des statistiques descriptives et de l'apprentissage automatique dans l'industrie aéronautique** by J. Lacaille:
+**Application de l'analyse de données, des statistiques descriptives et de l'apprentissage automatique dans l'industrie aéronautique** (AERO) by J. Lacaille:
 * Article review on *A Multi-ELM Model for Incomplete Data*
 * Repository which simply consists in getting our hands on flight data
 
@@ -18,7 +18,7 @@ List of projects and assignements done during the master MVA. Some courses which
 * Lab 7: Proteins
 * Project: Cellular Component Ontology Prediction
 
-**Image denoising : the human machine competition** by JM. Morel, G. Facciolo and P. Arias:
+**Image denoising : the human machine competition** (IMDEN) by JM. Morel, G. Facciolo and P. Arias:
 * Lab 1: Multi-scale DCT
 * Lab 2: Non Local Means
 * Lab 3: Patch Similarity
@@ -34,7 +34,30 @@ List of projects and assignements done during the master MVA. Some courses which
 * Lab 3: Image Classification
 * Project: Transporter Networks
 
-**Reinforcement Learning** by M. Pirotta:
+**Reinforcement Learning** (RL) by M. Pirotta:
 * Lab 1: Dynamic Programming
 * Lab 2: Reinforce Learning
 * Lab 3: Bandits
+
+## Second semester
+
+**Audio Signal Analysis, Indexing and Transformation** (ASA) by R. Badeau and G. Richard:
+* Lab 1: Multipitch
+* Lab 2: Effets / Reverb
+* Lab 3: HRTF
+* Lab 4: Modification
+* Lab 5: Separation
+* Project: not done
+
+**Graphs in Machine Learning** (GML) by D. Calandriello and M. Valko:
+* Lab 1: Spectral Clustering
+* Lab 2: Semi-Supervised Learning
+* Lab 3: Graph Neural Networks
+
+**Machine learning with kernel methods** (KM) by M Arbel, A Rudi, J-P. Vert and J. Mairal
+* Lab 1: RKHS
+* Lab 2: SVC
+* Lab 3: Bn-splines and Sobolev spaces
+* Project: Graph Classification
+
+

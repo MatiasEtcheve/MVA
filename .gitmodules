@@ -4,3 +4,6 @@
 [submodule "AERO/TD"]
 	path = AERO/TD
 	url = https://github.com/MatiasEtcheve/AERO.git
+[submodule "KM/Projet/KM-graph-classification"]
+	path = KM/Projet/KM-graph-classification
+	url = https://github.com/MatiasEtcheve/KM-graph-classification.git
