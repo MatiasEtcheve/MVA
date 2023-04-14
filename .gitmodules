@@ -7,3 +7,6 @@
 [submodule "KM/Projet/KM-graph-classification"]
 	path = KM/Projet/KM-graph-classification
 	url = git@github.com:MatiasEtcheve/KM-graph-classification.git
+[submodule "TS/Project/TS-MDL"]
+	path = TS/Project/TS-MDL
+	url = git@github.com:MatiasEtcheve/TS-MDL.git

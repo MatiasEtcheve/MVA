@@ -54,10 +54,14 @@ List of projects and assignements done during the master MVA. Some courses which
 * Lab 2: Semi-Supervised Learning
 * Lab 3: Graph Neural Networks
 
-**Machine learning with kernel methods** (KM) by M Arbel, A Rudi, J-P. Vert and J. Mairal
+**Machine learning with kernel methods** (KM) by M. Arbel, A. Rudi, J-P. Vert and J. Mairal: 
 * Lab 1: RKHS
 * Lab 2: SVC
 * Lab 3: Bn-splines and Sobolev spaces
 * Project: Graph Classification
 
-
+**Machine Learning for Time Series** (TS) by L. Oudre and C. Truong. Work done in collaboration with Amric Trudel:
+* Lab 1: Dictionary learning
+* Lab 2: AR and MA processes
+* Lab 3: Change point detection and graph signals
+* Project: Multivariate Temporal Dictionary Learning for EEG
