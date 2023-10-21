@@ -10,3 +10,6 @@
 [submodule "TS/Project/TS-MDL"]
 	path = TS/Project/TS-MDL
 	url = git@github.com:MatiasEtcheve/TS-MDL.git
+[submodule "SLP/SLP-Canine"]
+	path = SLP/SLP-Canine
+	url = git@github.com:MatiasEtcheve/SLP-Canine.git
