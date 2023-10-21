@@ -66,5 +66,5 @@ List of projects and assignements done during the master MVA. Some courses which
 * Lab 3: Change point detection and graph signals
 * Project: Multivariate Temporal Dictionary Learning for EEG
 
-**Algorithms for speech and natural language processing** by E. Dupoux, B. Sagot:
+**Algorithms for speech and natural language processing** (SLP) by E. Dupoux, B. Sagot:
 * Project: Character tokenizer 
